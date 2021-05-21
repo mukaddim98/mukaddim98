@@ -1,5 +1,7 @@
 ### Hi there, I am Abdullah 👋
-- 🌱 I’m currently learning ML and Django
+- 🔭 I’m currently working on a Raspberry Pi gardening project called Water Me.
+- 🌱 I’m currently learning AWS Cloud Formation, Django and ML tools like Scikit Learn.
+- 📫 How to reach me: mukaddim1998@gmail.com
 
 <!--
 **mukaddim98/mukaddim98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
