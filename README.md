@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I am Abdullah 👋
+- 🌱 I’m currently learning ML and Django
 
 <!--
 **mukaddim98/mukaddim98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
