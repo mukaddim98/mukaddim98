@@ -1,6 +1,6 @@
 ### Hi there, I am Abdullah 👋
 - 🔭 I’m currently working on a Raspberry Pi gardening project called Water Me.
-- 🌱 I’m currently learning AWS Cloud Formation, Django and ML tools like Scikit Learn.
+- 🌱 I’m also learning AWS Cloud Formation and Machine Learning technologies.
 - 📫 How to reach me: mukaddim1998@gmail.com
 
 <!--
